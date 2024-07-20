@@ -73,6 +73,7 @@ function factoriel(n){
     return fact;
 }
 
+//nombre premier:nombre qui a 2 diviseur 1 et lui mm
 
 function premier(n){
     for(let i=2;i<n/2;i++){
